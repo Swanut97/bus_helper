@@ -43,3 +43,7 @@
 |메인|OBDE|OCR|TTS|
 |---|---|---|---|
 |방인규|김동운|손태균|김하연|
+
+## 논문 첨부
+Paper ID: EEECS670 (45p)
+https://github.com/Swanut97/bus_helper/blob/main/EEECS%202021%20Program%20v1%20(tentative).pdf
